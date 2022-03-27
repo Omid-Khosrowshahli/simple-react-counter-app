@@ -1,0 +1,20 @@
+.container {
+  margin: auto;
+  margin-top: 50px;
+  max-width: 450px;
+  height: 300px;
+  border-radius: 10px;
+  box-shadow: 0 0 6px 8px #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container span {
+  margin: 0 30px;
+  font-size: 50px;
+}
+
+input {
+  margin-top: 50px;
+}
